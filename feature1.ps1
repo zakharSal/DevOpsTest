@@ -1,1 +1,1 @@
-Write-Host "feature1"
+Write-Host "feature1" -fore Green

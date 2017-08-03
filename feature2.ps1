@@ -1,1 +1,1 @@
-Write-Host "feature2"
+Write-Host "feature2" -fore Yellow
